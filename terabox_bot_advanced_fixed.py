@@ -21,8 +21,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# ⚠️ APNA TOKEN YAHAN DALO
-BOT_TOKEN = os.getenv("8873291800:AAGSbAkA359IbGZa6dJSfC1ci5eIpTaZMnw")
+# 
+BOT_TOKEN = "8873291800:AAFFACaoFc1uwVLjUgyThljd7Iz8fEjwA_0"
 
 # Terabox Downloader APIs (multiple sources for reliability)
 DOWNLOADER_APIS = [
