@@ -27,6 +27,7 @@ BOT_TOKEN = "8873291800:AAFFACaoFc1uwVLjUgyThljd7Iz8fEjwA_0"
 DOWNLOADER_APIS = [
     "https://teraboxdownloader.pro",
     "https://1024terabox.com",
+"https://1024terabox.com",
    "https://teradownloadr.com",
     "https://www.teraboxfast.com"
 ]
