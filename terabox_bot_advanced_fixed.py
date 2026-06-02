@@ -38,7 +38,7 @@ class TeraboxDownloader:
     @staticmethod
     def is_valid_terabox_link(text: str) -> bool:
         """Check if valid terabox link h"""
-        pattern = r'https://terabox\.com/s/[a-zA-Z0-9_-]+'
+        pattern = r'https://(terabox\.com|1024terabox\.com|teraboxapp\.com)/s/[a-zA-Z0-9_-]+'
         return bool(re.search(pattern, text))
     
     @staticmethod
