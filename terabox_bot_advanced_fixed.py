@@ -7,8 +7,7 @@ Version: 2.0
 """
 
 import logging
-import re
-import osquests
+import requests
 import re
 import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
